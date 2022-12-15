@@ -9,11 +9,6 @@ I am a third year Computer Science Student (In-view) at [Lagos State University]
 - research internships and
 - available to become reviewer or PC member for software development journals or conferences.
 
-**Recent Update**:
-- **August 2022**: Our paper _Anomaly Detection in Healthcare_ has been accepted for publication at the 11th International Conference on Health Information Science 2022 (HIS 2022).
-- **July 2022**: Our paper _sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect_ has been accepted for publication at the 23rd International Conference on Web Information Systems Engineering 2022 (WISE 2022).
-- **April 2022**: Our paper _A New Dimensionality-Unbiased Score for Efficient and Effective Outlying Aspect Mining_ accepted for the publication by the Data Science and Engineering Journal (Springer).[[Paper]](https://link.springer.com/article/10.1007/s41019-022-00185-5)
-
 ## Skills:
 
 #### Languages:
@@ -36,12 +31,10 @@ I am a third year Computer Science Student (In-view) at [Lagos State University]
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://daniel-akinyemi.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/darnzykay) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/danielakinyemi/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/darnzykay)
 </p>
 
 | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-akinyemi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&layout=compact&theme=buefy&hide_border=true" /></a> |
