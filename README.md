@@ -1,13 +1,6 @@
 ### Hi there, I'm [Daniel Akinyemi](https://www.linkedin.com/in/danielakinyemi/) 👋
 
-I am a third year Computer Science Student at [Lagos State University](https://federation.edu.au), Nigeria. Apart from that I am a Fullstack Developer with a focus on blockchain technology.
-
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+I am a third year Computer Science Student (In-view) at [Lagos State University](https://lasu.edu.ng/), Nigeria. Apart from that I am a Fullstack Developer with a focus on blockchain technology.
 
  **I am open to**:
 
