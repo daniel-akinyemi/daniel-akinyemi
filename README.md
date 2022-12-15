@@ -1,4 +1,7 @@
-### Hi there, I'm [Daniel Akinyemi](https://www.linkedin.com/in/danielakinyemi/) 👋
+<!-- ### Hi there, I'm [Daniel Akinyemi](https://www.linkedin.com/in/danielakinyemi/) 👋 -->
+# 🏄‍♂️ Daniel Akinyemi
+
+**`Digital Craftsman (Full Stack Developer)`**
 
 I am a third year Computer Science Student (In-view) at [Lagos State University](https://lasu.edu.ng/), Nigeria. Apart from that I am a Fullstack Developer with a focus on blockchain technology.
 
