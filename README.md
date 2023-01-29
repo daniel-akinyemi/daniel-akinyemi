@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Full Stack Developer)`**
 
-I am a third year Computer Science Student (In-view) at [Lagos State University](https://lasu.edu.ng/), Nigeria. Apart from that I am a Fullstack Developer with a focus on blockchain technology.
+I am a Fullstack Javascript Developer with a focus on building webapps and blockchain tech.
 
  **I am open to**:
 
