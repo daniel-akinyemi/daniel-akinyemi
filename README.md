@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Full Stack Developer)`**
 
-I am a Javascript Developer with a focus on building webapps and blockchain tech.
+I am a Javascript Developer with a focus on building cutting-edge and accessible software
 
  **I am open to**:
 
