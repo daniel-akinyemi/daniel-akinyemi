@@ -1,5 +1,5 @@
 <!-- ### Hi there, I'm [Daniel Akinyemi](https://www.linkedin.com/in/danielakinyemi/) 👋 -->
-# Hey 👋🏼, I'm Daniel Akinyemi 👨🏼‍💻
+# Hi👋🏼, I'm Daniel Akinyemi 👨🏼‍💻
 
 **`Digital Craftsman (Full Stack Developer)`**
 
