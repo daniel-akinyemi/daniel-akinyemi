@@ -43,13 +43,16 @@ I am a Javascript Developer with a focus on building cutting-edge and accessible
 | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-akinyemi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- 
+
+
+
+
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 
 <!--
 **daniel-akinyemi/daniel-akinyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
