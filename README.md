@@ -1,9 +1,9 @@
 <!-- ### Hi there, I'm [Daniel Akinyemi](https://www.linkedin.com/in/danielakinyemi/) 👋 -->
 # Hi👋🏼, I'm Daniel Akinyemi 👨🏼‍💻
 
-**`Digital Craftsman (Front-End Developer)`**
+**`Digital Craftsman (Full-Stack Engineer)`**
 
-I am a front-end developer with a passion for building great and bleeding-edge software
+I am a full-stack developer with a passion for building great and bleeding-edge software
 
  **I am open to**:
 
