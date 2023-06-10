@@ -31,8 +31,8 @@ Hi! I am a full-stack software engineer with a passion for building great and bl
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/darnzykay)
 </p>
 
-<!-- | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-akinyemi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a>  -->
-| <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&layout=compact&theme=buefy&hide_border=true" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-akinyemi&theme=dark)](https://github.com/daniel-akinyemi/github-readme-streak-stats)
+| <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-akinyemi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> 
+| <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&layout=compact&theme=buefy&hide_border=true" /></a> | 
 
 | ------------- | ------------- |
 
