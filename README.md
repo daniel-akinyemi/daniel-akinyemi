@@ -1,8 +1,8 @@
 
 **`Digital Craftsman (Full-Stack Engineer)`**
 
-Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
-
+<!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
+ -->
  **I am open to**:
 
 - any collobration work,
