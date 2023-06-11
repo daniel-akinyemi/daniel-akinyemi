@@ -8,7 +8,7 @@
  
  **I am open to**:
 
-- any collobration work,
+- Collobration work,
 - Web application projects(development or research),
 - research internships and
 - available to become reviewer or PC member for software development journals or conferences.
