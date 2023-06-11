@@ -31,7 +31,7 @@ Daniel Akinyemi is a full stack software engineer with a passions for creating h
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" target='_blank'>](https://danielakinyemi.vercel.app)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/darnzykay) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/danielakinyemi/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/darnzykay)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/_danielakinyemi)
 </p>
 
 <!-- | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-akinyemi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/daniel-akinyemi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&layout=compact&theme=buefy&hide_border=true" /></a> |
