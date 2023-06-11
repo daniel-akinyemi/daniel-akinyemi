@@ -4,7 +4,7 @@
 <!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
  -->
  
- Daniel Akinyemi is an experienced full stack software engineer with a focus on JavaScript. He is dedicated to creating high-quality software that improves people's lives. With a deep user-centric approach, he crafts intuitive and seamless applications. His passion for making a positive difference through technology shines through in his meticulous problem-solving and attention to detail. Daniel's dedication to learning and staying up-to-date enables him to tackle complex problems and deliver impactful results. Overall, he is an exceptional engineer committed to making a positive difference through high-quality software.
+ Daniel Akinyemi is an experienced full stack software engineer with a focus on JavaScript. He is dedicated to creating high-quality software that improves people's lives. With a deep user-centric approach, he crafts intuitive and seamless applications. His passion for making a positive difference through technology shines through in his meticulous problem-solving and attention to detail.
  
  **I am open to**:
 
