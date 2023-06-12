@@ -3,7 +3,7 @@
 
 <!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
  -->
- 
+
 Daniel Akinyemi is a full stack software engineer with a passions for creating high-quality software that improves people's lives. With a deep user-centric approach, he crafts intuitive and seamless applications. His passion for creating exceptional user-experience through software shines through in his meticulous problem-solving and attention to detail.
  
  **I am open to**:
