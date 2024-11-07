@@ -9,8 +9,7 @@ Daniel Akinyemi is a full stack software engineer with a flare for creating qual
  **I am open to**:
 
 - Collobration work,
-- Web application projects(development or research),
-- research internships and
+- Web application projects(development or research) and
 - available to become reviewer or PC member for software development journals or conferences.
 
 <!-- ## Skills:
@@ -41,7 +40,7 @@ Daniel Akinyemi is a full stack software engineer with a flare for creating qual
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-akinyemi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!-- [![Daniel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Daniel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
