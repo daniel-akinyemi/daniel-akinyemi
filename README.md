@@ -1,5 +1,5 @@
 
-**`Technical Lead (Full-Stack Engineer)`**
+**`Technical Lead (Senior Full-Stack Engineer)`**
 
 
 Daniel Akinyemi is a full stack software engineer with a flare for creating quality software that improve people's lives. With a focus on user experience, design and accessibility, his passion for creating exceptional user-experience through software shines through in his meticulous problem-solving and attention to detail.
