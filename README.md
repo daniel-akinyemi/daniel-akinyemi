@@ -23,8 +23,8 @@ Daniel Akinyemi is a full stack software engineer with a flare for creating qual
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/_danielakinyemi)
 </p>
 
+<!-- 
 ##
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-akinyemi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-akinyemi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 
