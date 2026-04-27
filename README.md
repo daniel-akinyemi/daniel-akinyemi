@@ -17,7 +17,7 @@ Daniel Akinyemi is a full stack software engineer with a flare for creating qual
 
 <p align = "center">
 
-[Portfolio](https://danielakinyemi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/danielakinyemi/) · [Twitter / X](https://twitter.com/darnzykay) · [Instagram](https://instagram.com/_danielakinyemi)
+[Portfolio](https://danielakinyemi.dev) · [LinkedIn](https://www.linkedin.com/in/danielakinyemi/) · [Twitter / X](https://twitter.com/deeeexc) · [Instagram](https://instagram.com/danakinyemi)
 </p>
 
 <!-- 
